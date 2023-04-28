@@ -1,0 +1,74 @@
+body {
+		background-color:black;
+		color: orange;
+		font-family: Arial, serif;
+		font-size: 12pt;
+		text-align: center;}
+
+h1 {
+	background-color: orange;
+	color: black;
+	font-weight: 1000;
+	font-style: oblique;
+	text-align: center;
+	
+	} 
+	
+p	{
+		border: solid 3px orange;
+		padding: 10px;
+		margin: 10px;
+		border-style: dashed;
+		border-width:4px;
+		border-bottom-color: orange;
+		border-left-color: white;
+		border-top-color: orange;
+		border-right-color: white;
+		border-radius: 15px;
+		box-shadow: 10px 10px 25px #ff0000;
+		border-left-width:;
+		border-right-width:;
+		border-top-width:;
+		border-bottom-width:;
+	
+
+
+}
+
+table	{
+		border: solid 3px orange;
+		padding: 10px;
+		margin: 10px;
+		border-style: dashed;
+		border-width:4px;
+		border-bottom-color: orange;
+		border-left-color: white;
+		border-top-color: orange;
+		border-right-color: white;
+		border-radius: 15px;
+		box-shadow: 10px 10px 25px #ff0000;
+		border-left-width:;
+		border-right-width:;
+		border-top-width:;
+		border-bottom-width:;
+	
+
+
+}
+
+
+	
+	
+	
+	
+	
+.container1 {
+	margin-left: auto;
+	margin-right: auto;
+}
+.container2 {
+	display:flex;
+	margin-left: auto;
+	margin-right:auto;
+}
+		
